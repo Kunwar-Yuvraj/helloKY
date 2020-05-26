@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1{
+  width: 100%;
+}
